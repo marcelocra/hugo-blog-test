@@ -1,21 +1,18 @@
 {
-  "name": "tech-doc-hugo",
-  "version": "0.0.1",
-  "description": "Hugo theme for technical documentation.",
+  "name": "marcelocra-blog",
+  "version": "0.1.0",
+  "description": "Marcelo Almeida's dev blog.",
   "main": "none.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/google/docsy-example.git"
+    "url": "git+https://github.com/marcelocra/blog.git"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/google/docsy-example/issues"
-  },
-  "homepage": "https://github.com/google/docsy-example#readme",
+  "author": "Marcelo Almeida (@marcelocra)",
+  "license": "MIT",
+  "homepage": "https://github.com/marcelocra/blog#readme",
   "devDependencies": {
     "autoprefixer": "^10.4.0",
     "postcss": "^8.3.7",
