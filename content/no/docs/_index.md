@@ -1,4 +1,3 @@
-
 ---
 title: "TechOS-Dokumentasjon"
 linkTitle: "Dokumentasjon"
@@ -10,8 +9,6 @@ menu:
 
 Dette er landingssiden til en seksjon på øverste nivå.
 
-* Oppsummer
-* Seksjonen din
-* Her
-
-
+- Oppsummer
+- Seksjonen din
+- Her

@@ -1,4 +1,3 @@
-
 ---
 title: "Store mengder data"
 linkTitle: "Big Data"
@@ -9,8 +8,6 @@ description: >
 
 Dette er landingssiden til en seksjon et sted nede i seksjonshierarkiet.
 
-* Oppsummer
-* Seksjonen din
-* Her
-
-
+- Oppsummer
+- Seksjonen din
+- Her
