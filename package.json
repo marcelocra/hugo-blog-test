@@ -4,7 +4,8 @@
   "description": "Marcelo Almeida's dev blog.",
   "main": "none.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "change-eof-to-lf": "prettier --end-of-line lf --write ."
   },
   "repository": {
     "type": "git",
@@ -12,5 +13,8 @@
   },
   "author": "Marcelo Almeida (@marcelocra)",
   "license": "MIT",
-  "homepage": "https://github.com/marcelocra/blog#readme"
+  "homepage": "https://github.com/marcelocra/blog#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
 }
